@@ -70,7 +70,7 @@ loversArt = await loadImage("assets/lovers.png");
 frankArt = await loadImage("assets/frank.png");
 heartArt = await loadImage("assets/heart.png");
 scrierArt = await loadImage("assets/scrier.png");
-  createCanvas(windowWidth, 900);
+  createCanvas(windowWidth, windowHeight);
 rectMode(CENTER);
 
 }
