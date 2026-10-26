@@ -43,7 +43,7 @@ let textTemperanceOne = "The father grows life from the galvanized vine\nAnd lea
 let textTemperanceTwo = "\"Your time with the maker reflects a period of great harmony, according to Temperance. It seems the maker felt a sense of paternal protection over you, which blossomed into a genuine familial bond between the two of you. He passed on what he knew to you and you surprised him with your understanding and eagerness. It seems that an accident separated the two of you, but I suspect he's still searching for his lost pupil.\""
 let textPageThree = "The scrier's eyes widen. \"The needle ties the patches together with greater precision. One final draw remains, one that reveals the relationship between you and the purpose for which you were created.\""
 let textEmperorOne = "The flag of the father flies high in the aether.\nThe House of Frankenstein reigns forever.\nThis weapon of conquest, the hand of the knife\nIs the false child the master wrought to life."
-let textEmperorTwo = "\"As the card reveals, your purpose was that of controlled fear and chaos. The maker, bitter and angry with his contemporaries, developed you to one day decimate all who opposed him. He viewed you as the right hand in his conquest and thought you as easy to be controlled. While this purpose is grim in essence, the future my offer a path to transformation.\""
+let textEmperorTwo = "\"As the card reveals, your purpose was that of controlled fear and chaos. The maker, bitter and angry with his contemporaries, developed you to one day decimate all who opposed him. He viewed you as the right hand in his conquest and thought you as easy to be controlled. While this purpose is grim in essence, the future may offer a path to transformation.\""
 let textSunOne = "Flame of the gods, kept high in the skies\nObscured from the gaze of a mortal's eyes.\nThis arcane spark in a human hand\nWould live on as all reduced to sand."
 let textSunTwo = "\"An air of confidence characterizes the Sun, which also permeates the purpose of which you were made for. It seems you were designed as an ultimate exercise in vanity, to prove that your maker was above the divine in his pursuit of life. You were to serve as his testament long after he passed.\""
 let textLoversOne = "The soul strengthens in the care of another, \nBe it love from the partner or love from the brother.\nThis sacred bond, the maker did rend\nInto the body of one that he could call friend."
@@ -74,9 +74,9 @@ scrierArt = await loadImage("assets/scrier.png");
 rectMode(CENTER);
 
 }
-//function windowResized() {
-  //resizeCanvas(windowWidth, windowHeight);
-//}
+function windowResized() {
+resizeCanvas(windowWidth, windowHeight);
+}
 
 function draw() {
     background(0,0,0);
