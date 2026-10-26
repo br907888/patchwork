@@ -12,13 +12,13 @@ An interactive narrative loosely inspired by Frankenstein; or, The Modern Promet
 ## Assets
 All image assets were produced digitally by Brock Adams using Krita.
 Title Font "Mixgrund Font" by Drizy Font
-| # | Asset | File name | Type | Tool used |
-|---|-------|-----------|------|-----------|
-| 1 |  | "assets/devil.png" | Image | Aseprite |
-| 2 | Background | `assets/bg.png` | Image | Photoshop |
-| 3 | Jump sound | `assets/jump.wav` | Sound | Audacity |
-| 4 | ... | ... | ... | ... |
-| 5 | ... | ... | ... | ... |
+| # | Asset | File name | Type |
+|---|-------|-----------|------|
+| 1 | Devil Tarot Card | `assets/devil.png` | Image |
+| 2 | Emperor Tarot Card | `assets/bg.png` | Image |
+| 3 | Devil Tarot Card| `assets/jump.wav` | Sound |
+| 4 | Devil Tarot Card | ... | ... | ... |
+| 5 | Devil Tarot Card| ... | ... | ... |
 | 6 | ... | ... | ... | ... |
 | 7 | ... | ... | ... | ... |
 | 8 | ... | ... | ... | ... |
