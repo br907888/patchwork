@@ -11,19 +11,19 @@ An interactive narrative loosely inspired by Frankenstein; or, The Modern Promet
 
 ## Assets
 All image assets were produced digitally by Brock Adams using Krita.
-Title Font "Mixgrund Font" by Drizy Font
+Title Font "Mixgrund Font" by Drizy Font. Copyright Free under Fair Use
 | # | Asset | File name | Type |
 |---|-------|-----------|------|
 | 1 | Devil Tarot Card | `assets/devil.png` | Image |
-| 2 | Emperor Tarot Card | `assets/emperor.png` | Image |
-| 3 | Empress Tarot Card| `assets/jump.wav` | Image |
-| 4 | Title Card Art | ... | Image |
+| 2 | Emperor Tarot Card | "assets/emperor.png" | Image |
+| 3 | Empress Tarot Card| "assets/jump.wav" | Image |
+| 4 | Title Card Art | empressnew.png | Image |
 | 5 | Heart Art| ... | Image | 
-| 6 | Hermit Tarot Card| ... | ... |
-| 7 | Lovers Tarot Card | ... | ... |
-| 8 | Title Font | ... | ... |
-| 9 | The Scrier Character Art | ... | ... |
-| 10 | Strength Tarot Card | ... | ... |
-| 11 | Sun Tarot Card | ... | ... |
-| 12 | Temperance Tarot Card | ... | ... |
-| 12 | Tower Tarot Card | ... | ... |
+| 6 | Hermit Tarot Card| ... | Image|
+| 7 | Lovers Tarot Card | ... | Image|
+| 8 | Title Font | ... | Text Font |
+| 9 | The Scrier Character Art | ... | Image |
+| 10 | Strength Tarot Card | ... | Image |
+| 11 | Sun Tarot Card | ... | Image |
+| 12 | Temperance Tarot Card | ... | Image |
+| 12 | Tower Tarot Card | ... | Image |
