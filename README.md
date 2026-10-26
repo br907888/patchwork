@@ -10,8 +10,8 @@ An interactive narrative loosely inspired by Frankenstein; or, The Modern Promet
 3. **OR** access live page with this URL: **https://br907888.github.io/patchwork/**
 
 ## Assets
-All image assets were produced digitally by Brock Adams using Krita.
-Title Font "Mixgrund Font" by Drizy Font. Copyright Free under Fair Use
+- All image assets were produced digitally by Brock Adams using Krita.
+- Title Font "Mixgrund Font" by Drizy Font. Copyright Free under Fair Use
 
 1. Devil Tarot Card | assets/devil.png | Image |
 2.  Emperor Tarot Card | assets/emperor.png | Image |
