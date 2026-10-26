@@ -15,12 +15,15 @@ Title Font "Mixgrund Font" by Drizy Font
 | # | Asset | File name | Type |
 |---|-------|-----------|------|
 | 1 | Devil Tarot Card | `assets/devil.png` | Image |
-| 2 | Emperor Tarot Card | `assets/bg.png` | Image |
-| 3 | Devil Tarot Card| `assets/jump.wav` | Sound |
-| 4 | Devil Tarot Card | ... | ... | ... |
-| 5 | Devil Tarot Card| ... | ... | ... |
-| 6 | ... | ... | ... | ... |
-| 7 | ... | ... | ... | ... |
-| 8 | ... | ... | ... | ... |
-| 9 | ... | ... | ... | ... |
-| 10 | ... | ... | ... | ... |
+| 2 | Emperor Tarot Card | `assets/emperor.png` | Image |
+| 3 | Empress Tarot Card| `assets/jump.wav` | Image |
+| 4 | Title Card Art | ... | Image |
+| 5 | Heart Art| ... | Image | 
+| 6 | Hermit Tarot Card| ... | ... |
+| 7 | Lovers Tarot Card | ... | ... |
+| 8 | Title Font | ... | ... |
+| 9 | The Scrier Character Art | ... | ... |
+| 10 | Strength Tarot Card | ... | ... |
+| 11 | Sun Tarot Card | ... | ... |
+| 12 | Temperance Tarot Card | ... | ... |
+| 12 | Tower Tarot Card | ... | ... |
